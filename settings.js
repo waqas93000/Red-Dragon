@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['03077889300'] //ur owner number
+global.vcardowner = ['03074111853'] //ur owner number
 global.ownername = "KASHII LOVER❯❯" //ur owner name
 global.ytname = "KASHII LOVE MISHII" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
@@ -42,8 +42,8 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 global.antibad = "false" // To remove bad word senders
 
-global.owner = ['03077889300']
-global.ownertag = '03077889300' //ur tag number
+global.owner = ['03074111853']
+global.ownertag = '03074111853' //ur tag number
 global.botname = 'KASHII LOVER - 𝘉𝘖𝘛' //ur bot name
 global.packname = "KASHII LOVE MISHII" // sticker packname
 global.author = "KASHII LOVE MISHII" // sticker author
@@ -54,7 +54,7 @@ global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //damtabase
-global.premium = ['03077889300'] //ur premium numbers
+global.premium = ['03074111853'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
